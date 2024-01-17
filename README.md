@@ -7,6 +7,7 @@
 </div>
 
 ### Hi there 👋
+<div align="center">
 <ul>
 
 <li><b>👤 Name:  </b> Roberto </li>
@@ -15,7 +16,7 @@
 <li><b>📣 Languages: </b>  English & Spanish </li>
 	
 </ul>
-
+</div>
   <p align="left"><i><b>
   👨🏻‍💻 Designer<br>
   ⛰️ Outdoors lover<br>
