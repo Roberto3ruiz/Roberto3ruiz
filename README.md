@@ -1,6 +1,6 @@
 ![Header](Images/header.png)
 <br>
-<div align="center">
+<div align="left">
 	<img src="https://komarev.com/ghpvc/?username=roberto3ruiz&color=blue&style=for-the-badge" alt="Profile views"/>
 	<img src="https://img.shields.io/github/followers/roberto3ruiz?style=for-the-badge&logo=github&color=blue" alt="Github followers"/> 
 	<img src="https://img.shields.io/twitter/follow/roberto3ruiz?style=for-the-badge&logo=twitter&color=blue" alt="Twitter followers"/>   
@@ -28,7 +28,7 @@
 <h3> Social Media </h3>
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/roberto3ruiz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/roberto3ruiz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/roberto3ruiz"><img src="https://img.shields.io/badge/-Twitter-%1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" target="_blank"></a>
